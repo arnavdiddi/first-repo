@@ -9,3 +9,4 @@ This is my first time making a README through GitHub. I am very excited!
 ## Local Development
 
 1. Open Index.html in your browser.
+2. Have Fun.
